@@ -42,9 +42,8 @@ repositories, and I'm always open to questions and interviews
   Development
 
 ### Curriculum Vitae (CV)
-You will be able to find my curriculum in this repo, however, do note that I do 
-not constantly update my CV and that it might be slightly outdated unless I am 
-actively looking for work
+You will be able to find my curriculum in this repository. It is updated 
+occasionally.
 
 ## Contact:
 In order to reach me, the following ways to contact me are always open:
