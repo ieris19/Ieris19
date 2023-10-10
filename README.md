@@ -8,20 +8,25 @@ I am a Software Engineering student based in Horsens, Denmark
 ### 👨🏻‍ A small profile about me:
 
 * Name: Javier Abreu Barreto
-* Age: 19
+* Birthdate: 09/09/2003
 * Location: Horsens, Denmark
 * Languages (by order of proficiency):
     * Spanish, English, Italian, Danish
 * Technologies:
-  * I have worked with many technologies, but feel the most comfortable around Java, Maven and
-    in general, backend technologies
-* Areas of Interests: 
+  * I have feel the most comfortable around Java, Maven and in general, backend technologies.
+  * I've done projects with React, Vite, Node, Sass and JQuery among other web frameworks on
+    top of my own HTML+CSS+JS
+  * I've done some practice in C# for Dotnet, Blazor apps 
+* Areas of Interests:
+  * Backend Development
   * Natural Language Processing
   * Game Development
 * Hobbies: 
   * Gaming 
   * Programming
   * Linguistics
+  * Gymnastics
+  * Rollerskating
 
 --------------------------------------------------------------------------------
 
@@ -51,8 +56,6 @@ In my GitHub profile, you will find a list of all my public projects. Highlights
   code I have found to be useful in more than one environment, or that I have wanted to show off.
   Not much of it has been used in public projects, but it has most definitely come in handy for my
   assignments
-* assistant-bot: A Discord bot using Java Discord API (JDA) that I developed in order to help me when
-  hosting video game servers with my friends. 
 ### School Projects:
 * SEP4-5X-Cloud: A Java application designed as part of a larger project for my degree. It receives information from an
   embedded device, interacts with a MongoDB database where it is stored, and serves requests on a web API for easy 
